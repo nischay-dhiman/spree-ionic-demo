@@ -40,7 +40,7 @@ gem 'spree_gateway', '~> 3.4'
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.1.0', require: false
 
-gem 'rack-cors', '0.4.0'
+gem 'rack-cors', '1.0.5'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
